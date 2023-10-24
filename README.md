@@ -16,7 +16,7 @@ For building and running the application you need:
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.gerimedica.assignment.GerimedicaApplication` class from your IDE.
 
-Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
+Alternatively, you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
 
 ```shell
 mvn spring-boot:run
@@ -58,10 +58,10 @@ mvn spring-boot:run
 ## Swagger UI
 
 Open Swagger UI
-1. After runing the project open this link :
+1. After running the project open this link :
 http://localhost:8083/swagger-ui.html
  
 
 ## Contact
 
-[Saeid Azimi](https://www.linkedin.com/in/saeedazimi)
+[Saeid Azimi](https://www.linkedin.com/in/saeidazimi)
